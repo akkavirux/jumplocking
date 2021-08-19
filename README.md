@@ -1,7 +1,7 @@
 # Jump locking [YMAP] [FIVEM] [GTA V]
 ## [ENG]
 Hello.
-This is my mapping to block all the jumps on the GTA Online map. As there are many jumps on the map, I update it every few days, so take a look. If you have any questions, feel free to ask them in the comments or write to my discord akkavirux#1663
+This is my mapping to block all the jumps on the GTA Online map. As there are many jumps on the map, I update it every few days, so take a look. If you have any questions, feel free to ask in my discord akkavirux#1663
 
 ### INSTALLATION FIVEM
 - Extract the files from the Fivem folder and put them in your maps folder.
@@ -24,7 +24,7 @@ start jump07
 
 ## [ESP]
 Hola.
-Este es mi mapeado para bloquear todos los saltos del mapa de GTA Online. Como hay muchos saltos en el mapa, lo voy actualizando cada pocos días, así que echa un ojo de vez en cuando. Si tienes alguna pregunta, no dudes en preguntarla en los comentarios o escríbeme a mi discord akkavirux#1663
+Este es mi mapeado para bloquear todos los saltos del mapa de GTA Online. Como hay muchos saltos en el mapa, lo voy actualizando cada pocos días, así que echa un ojo de vez en cuando. Si tienes alguna pregunta, no dudes en escribirme a mi discord akkavirux#1663
 
 ### INSTALACIÓN FIVEM
 - Descomprime los archivos de la carpeta Fivem y colóquelos en su carpeta de mapas.
