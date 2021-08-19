@@ -6,6 +6,7 @@ This is my mapping to block all the jumps on the GTA Online map. As there are ma
 ### INSTALLATION FIVEM
 - Extract the files from the Fivem folder and put them in your maps folder.
 - Add the following to your server.cfg:
+```
 start jump01
 start jump02
 start jump03
@@ -13,6 +14,7 @@ start jump04
 start jump05
 start jump06
 start jump07
+```
 
 ### INSTALLATION SINGLEPLAYER
 - Unzip the file
@@ -27,6 +29,7 @@ Este es mi mapeado para bloquear todos los saltos del mapa de GTA Online. Como h
 ### INSTALACIÓN FIVEM
 - Descomprime los archivos de la carpeta Fivem y colóquelos en su carpeta de mapas.
 - Agrega lo siguiente a tu server.cfg:
+```
 start jump01
 start jump02
 start jump03
@@ -34,6 +37,7 @@ start jump04
 start jump05
 start jump06
 start jump07
+```
 
 ### INSTALACIÓN SINGLEPLAYER
 - Descomprime el archivo
